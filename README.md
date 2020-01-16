@@ -1,4 +1,4 @@
-# ![alt text](http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png, "instagram logo") INSTAGRAM BOT!
+# ![alt text](https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png, "instagram logo") INSTAGRAM BOT!
 
 ### This is just a simple Python script that, when run, will do the following:
 #### + Open Chrome
