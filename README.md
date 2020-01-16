@@ -1,4 +1,4 @@
-# ![alt text](https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png, "instagram logo") INSTAGRAM BOT!
+# INSTAGRAM BOT!
 
 ### This is just a simple Python script that, when run, will do the following:
 #### + Open Chrome
